@@ -35,10 +35,4 @@ struct ContentView_Previews: PreviewProvider {
 }
 
 
-//let posts = [
-//    Post(id: "1", title: "Hello"),
-//    Post(id: "2", title: "Bonjour"),
-//    Post(id: "3", title: "Hola")
-//
-//]
 
